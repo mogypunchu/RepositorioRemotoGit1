@@ -5,7 +5,7 @@ public class principal {
 		// TODO Auto-generated method stub
 
 		System.out.println("Control de versiones git");
-		
+		System.out.println("Nuevo linea");
 	}
 
 }
